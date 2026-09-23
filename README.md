@@ -13,7 +13,7 @@ A cute, fun, and simple Python game where you try to guess the secret number hid
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * 🐍 **Python 3**
 * 🎲 Built-in `random` module
