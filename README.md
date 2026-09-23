@@ -1,6 +1,6 @@
 # 🎯 Number Guessing Game 🎲
 
-A cute, fun, and simple Python game where you try to guess the secret number hidden by the computer! 🤖✨
+A cute, fun, and simple Python game where you try to guess the secret number hidden by the computer! 🤖
 
 ---
 
